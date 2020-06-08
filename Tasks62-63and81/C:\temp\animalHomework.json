@@ -1,0 +1,16 @@
+[
+  {
+    "name": "bob",
+    "species": "racoon",
+    "legs": 4,
+    "age": 9,
+    "owner": "micha"
+  },
+  {
+    "name": "marve",
+    "species": "hedgehog",
+    "legs": 4,
+    "age": 3,
+    "owner": "vaira"
+  }
+]
